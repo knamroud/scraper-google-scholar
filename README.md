@@ -3,4 +3,4 @@
 To setup the project environment, run:
 
 pipenv install
-pipenv run jupyer lab
+pipenv run jupyter lab
