@@ -8,8 +8,13 @@ beautifulsoup4 = "*"
 pandas = "*"
 jupyter = "*"
 requests = "*"
+ipykernel = "*"
+pysocks = "*"
+requests-tor = "*"
+keybert = "*"
+bibtexparser = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "3.8"
