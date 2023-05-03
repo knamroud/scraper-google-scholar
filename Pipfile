@@ -5,14 +5,11 @@ name = "pypi"
 
 [packages]
 beautifulsoup4 = "*"
-pandas = "*"
 jupyter = "*"
 requests = "*"
 ipykernel = "*"
 pysocks = "*"
 requests-tor = "*"
-keybert = "*"
-bibtexparser = "*"
 
 [dev-packages]
 
